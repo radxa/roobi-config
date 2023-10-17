@@ -3,5 +3,10 @@
     "uuid": "a63b6184bee840aea78d997cea42fded",
     "name": "windows 10",
     "url": "https://github.com/palmshell/RoobiOS/releases/download/win10_1/windows10.json"
+  },
+  {
+    "uuid": "1c46c9de51be460e8f73234e6605b534",
+    "name": "OpenWrt",
+    "url": "https://github.com/palmshell/RoobiOS/releases/download/openwrt23.05/openwrt23.05.0.json"
   }
 ]

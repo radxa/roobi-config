@@ -13,5 +13,10 @@
     "uuid": "790127ec715d4e36a3808189bff6085d",
     "name": "Windows 10",
     "url": "https://github.com/palmshell/RoobiOS/releases/download/ps006_win/windows10.json"
+  },
+  {
+    "uuid": "3cc01d2044d543c3ad3ad20380619afb",
+    "name": "fedora",
+    "url": "https://github.com/palmshell/RoobiOS/releases/download/ps006_fodera/ps006_fedora.json"
   }
 ]

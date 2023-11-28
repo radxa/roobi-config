@@ -3,5 +3,10 @@
     "uuid": "1c46c9de51be460e8f73234e6605b534",
     "name": "OpenWrt",
     "url": "https://github.com/palmshell/RoobiOS/releases/download/openwrt23.05/openwrt23.05.0.json"
+  },
+  {
+    "uuid": "58373afacba743b1aa06b8b88dd39211",
+    "name": "Ubuntu",
+    "url": "https://github.com/palmshell/RoobiOS/releases/download/ps006_ubuntu/ps006_ubuntu.json"
   }
 ]

@@ -8,5 +8,10 @@
     "uuid": "58373afacba743b1aa06b8b88dd39211",
     "name": "Ubuntu",
     "url": "https://github.com/palmshell/RoobiOS/releases/download/ps006_ubuntu/ps006_ubuntu.json"
+  },
+  {
+    "uuid": "790127ec715d4e36a3808189bff6085d",
+    "name": "Windows 10",
+    "url": "https://github.com/palmshell/RoobiOS/releases/download/ps006_win/windows10.json"
   }
 ]

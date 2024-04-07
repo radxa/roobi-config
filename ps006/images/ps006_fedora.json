@@ -1,0 +1,50 @@
+{
+    "script_version": "1",
+    "uuid": "3cc01d2044d543c3ad3ad20380619afb",
+    "name": "fedora",
+    "img": "https://fedoraproject.org/assets/images/logos/fedora-blue.png",
+    "description": {
+      "zh-CN": "Fedora 是一个免费且开源的操作系统，它基于 Linux。它被广泛用于个人电脑和服务器，以其稳定性和安全性而闻名。Fedora 由社区驱动，得到了 Red Hat（一家著名的软件公司）的支持。它经常更新，提供最新的软件和特性。对于喜欢尝试新技术的用户来说，Fedora 是一个不错的选择。",
+      "en": "Fedora is a free and open-source operating system based on Linux. It is widely used on personal computers and servers, known for its stability and security. Driven by a community and supported by Red Hat, a renowned software company, Fedora is frequently updated with the latest software and features. It's a great choice for users who like experimenting with new technologies."
+    },
+    "version": "Workstation 39",
+    "author": "official",
+    "date": "2023.11.28",
+    "download": [
+      {
+        "file_name": "fodera.img.gz",
+        "size": 2400998080,
+        "urls": [
+            "https://gate.radxa.com/palmshell/RoobiOS/releases/download/ps006_fodera/ps006_fodera.img.gzaa",
+            "https://gate.radxa.com/palmshell/RoobiOS/releases/download/ps006_fodera/ps006_fodera.img.gzab"
+        ],
+        "md5": "7c8d747fcc7bfe79318c09d62bac43e6",
+        "sig": "YvvapjpA8ysLPVkLvlmvfCOgkugZf3eBtnYheN5Z+8gly+JVOev2BfJWAa9hq6iHKtYjxs2DUaHIz3J+ZyhkLXwFFN8hATaRLgMtVdObfMVjg47gV48ch6ADso9Ugk4cMrrqdEVvEAFefVLW6zm3IxDgISwUDwdnRBikzp769iqaXMGP5HY9iEFh4smeJjil9GLsrvKpbN6YS7S5HdqS5JbRoJ+zcaUlyJuldPZu/qBWbOFRRfJa3AEpkezFsvm0KpJJSnUNVqwXumqwYZwsT2sY4dDzD/h4x+wUiHwuGNSbmtTcRTxamosb5zUT+pnWUFpge0BM/Z3zpvr0KfDqZQ=="
+      },
+      {
+        "file_name": "after.sh",
+        "size": 283,
+        "urls":[
+          "https://gate.radxa.com/palmshell/RoobiOS/releases/download/ps006_fodera/after.sh"
+        ],
+        "md5":"3455394404420d2a9d89503c3ea5bd63",
+        "sig":"cAUHhl8PfrzPmPHoyCt1vMeZ8oFp3ZcQgIcoJV1r5/6eBuFcOM57Tchfwuoe49p2iZKzpCleETnSBNZGYh9enB5nqWKLrNOT5VWs8hYT+X11qY81dy8tppczrY+VOQi+gelCy+OQHDUKLmuwOf9+HoxUXogmKnbt54jshytLgjJd2kGUUkqEWHONJkSIxlkYtl6k35BWf1oQ/N6VWwYrGwiK+YpTpg/JhvbHC6DhsZhjXpGAguFTGE3fyEZ3Rj4/e1jlQG3lEaY/Y2hKWeJiyiDaaGExPx8WaCgBmms/w6zEKxe8k2ts58lwNXwVSiPcsr9pFobVn2HIr3rf/j7BFA=="
+      },
+      {
+        "file_name": "btusb.ko.xz",
+        "size": 227,
+        "urls":[
+          "https://gate.radxa.com/palmshell/RoobiOS/releases/download/ps006_fodera/btusb.ko.xz"
+        ],
+        "md5":"322186371fe0740680e94b9ec5d83a88",
+        "sig":"VFMOpG/+FWjVJ7kB22umVVTpdbMVkc/e5QkPJ6S751XlxbkjUgaobMFxgA/j0DHpWlsda4SqdVv9gJwd2UeqV0ZyU4kJFRT5o31+givvQnZZKZN//Dica6ci8L5DIu+4QSKeN+qWQ49zEy2aAB7t33WbkN5NT0JB91J9XAvrV/bDIG57+7p34sDGbjrLcG+Yb4sNLDLzQaEoW/losorSuT4QzAij0r8g0W6yWIPnl70D2FhYiERxA1VeYW4gDMLW9itaWWbmPo8bjq5WvL7BnzJPRvZHFOUWEhj+xb8jmw4uXjr3iWHrnU+W77nGVc5p+stXSUVFnLPBcW924qluWA=="
+      }
+    ],
+    "scripts": [
+      {
+        "type": "auto",
+        "text": "start",
+        "size": 6873677824
+      }
+    ]
+  }

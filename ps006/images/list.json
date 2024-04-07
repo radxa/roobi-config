@@ -2,21 +2,21 @@
   {
     "uuid": "1c46c9de51be460e8f73234e6605b534",
     "name": "OpenWrt",
-    "url": "https://github.com/palmshell/RoobiOS/releases/download/openwrt23.05/openwrt23.05.0.json"
+    "url": "https://gate.radxa.com/palmshell/RoobiOS/releases/download/openwrt23.05/openwrt23.05.0.json"
   },
   {
     "uuid": "58373afacba743b1aa06b8b88dd39211",
     "name": "Ubuntu",
-    "url": "https://github.com/palmshell/RoobiOS/releases/download/ps006_ubuntu/ps006_ubuntu.json"
+    "url": "https://gate.radxa.com/palmshell/RoobiOS/releases/download/ps006_ubuntu/ps006_ubuntu.json"
   },
   {
     "uuid": "790127ec715d4e36a3808189bff6085d",
     "name": "Windows 10",
-    "url": "https://github.com/palmshell/RoobiOS/releases/download/ps006_win/windows10.json"
+    "url": "https://gate.radxa.com/palmshell/RoobiOS/releases/download/ps006_win/windows10.json"
   },
   {
     "uuid": "3cc01d2044d543c3ad3ad20380619afb",
-    "name": "fedora",
-    "url": "https://github.com/palmshell/RoobiOS/releases/download/ps006_fodera/ps006_fedora.json"
+    "name": "Fedora",
+    "url": "https://gate.radxa.com/palmshell/RoobiOS/releases/download/ps006_fodera/ps006_fedora.json"
   }
 ]

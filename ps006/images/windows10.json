@@ -1,0 +1,41 @@
+{
+  "script_version": "1",
+  "uuid": "790127ec715d4e36a3808189bff6085d",
+  "name": "Windows 10",
+  "img": "https://gate.radxa.com/palmshell/RoobiOS/releases/download/win10_1/windows-10-logo.png",
+  "description": {
+    "zh-CN": "windows 英文版安装程序， 您必须遵守Windows相关条款，继续安装则代表接受条款",
+    "en": "Windows English installation program.You must comply with the Windows-related terms. Continuing with the installation signifies acceptance of the terms."
+  },
+  "version": "Professional 22H2 EN",
+  "author": "official",
+  "date": "2023.11.28",
+  "download": [
+    {
+      "file_name": "ps006_win.img.gz",
+      "size": 6178094720,
+      "urls":
+      [
+        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/ps006_win/ps006_win.img.gzaa",
+        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/ps006_win/ps006_win.img.gzab",
+        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/ps006_win/ps006_win.img.gzac"
+      ],
+      "md5": "e175a7f4bd9edc195c2c31ffb4c4d92d",
+      "sig":"i+5abrTWOT4wQSpzARCNMXD55M/3Tqg1ptzy3BRqZaro5CNLhTGeB6hqvdEO7q2wUleYiM5Dr4SJuJk8KPiIUSRzoYMhuVI5NyXYE5fzJQX29xipvsNh2a4sOqtVmfuyS/QhWXAL7s2VcOK8y8B5NmZUr8mJXdY4ogPxpuqmf9AHwo4tAUG/4GkFI7fGZL3YNPP1cW3rYiGZJsVvHtRLoQ2fiGHNi3NTPGqYDXEE2vCYRjcW00v8IF/IEHS2tZBxtZjgS96L0h/dtAyo0tr/Opynihds5/TP+5NaoxrQuIHWoL+jHcxpOLHPfKoGmW989UYq6Iy/WeYQOQLYu/JsaA=="
+    },
+    {
+      "file_name": "after.sh",
+      "size": 237,
+      "urls": "https://gate.radxa.com/palmshell/RoobiOS/releases/download/ps006_win/win10.sh",
+      "md5":"695553d310f559c8c49170f11d04d6e5",
+      "sig":"kP/pp5GzfgznoU7mxqp1pOJgR4UHQqP4QfjcD7q1taiFwKB23ogy+EP0sjbxmwgXRt+ceQYKEVXVvSZQTwaxFbF5JrxvUy6/UnWp0IKXVQv94a+pg3YJcOHPl0XfkVuKRnR4DSXqpqNKt6lonftYovSgoQIcqMcHvXgl38/VSrbOJ/6ZC2VvhpYSwaV3gRPnwIWsXb17Q5mgtVoCoDzKXR+qxpnCUaIvLC+6iKBiC6ZsAgU+iFcgPaaVgFOTrrXwd9Dw3puBjBAiuwjEdfE0Qog5NkzS4IkgOXuUHBsq3OdrfERhtG3hl6REYHUsKhI9h1mZqgCEu8kcYFmZj4PNAQ=="
+    }
+  ],
+  "scripts": [
+    {
+      "type": "auto",
+      "text": "start",
+      "size": 21832400384
+    }
+  ]
+}

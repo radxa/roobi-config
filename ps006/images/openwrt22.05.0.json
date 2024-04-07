@@ -1,0 +1,46 @@
+{
+    "script_version": "1",
+    "uuid": "1c46c9de51be460e8f73234e6605b534",
+    "name": "OpenWrt",
+    "img": "https://openwrt.org/_media/logo.png",
+    "description": {
+      "zh-CN": "OpenWrt是一个广泛应用于嵌入式设备的开源操作系统。这个基于Linux的操作系统旨在提供网络设备（如路由器和接入点）的自定义固件替代方案。OpenWrt的主要特点包括出色的可定制性、广泛的硬件兼容性以及强调网络安全性。用户可以利用OpenWrt的灵活性，根据自己的需求定制和配置网络功能，添加各种扩展和应用程序，如VPN、QoS、广告拦截等。这使得OpenWrt成为高级用户、网络管理员和技术爱好者的首选，他们寻求更多的网络控制权和性能优化。\n      OpenWrt的开源性质促进了一个积极的社区，该社区不断提供支持、文档和更新，以确保系统的稳定性和安全性。此外，OpenWrt还支持多种语言和协议，适用于各种网络环境。总之，OpenWrt为用户提供了一个强大、自定义的网络设备管理平台，可根据其需求构建安全、高性能的网络解决方案。",
+      "en": "OpenWrt is an open-source operating system widely used in embedded devices. This Linux-based OS is designed to offer a customizable firmware alternative for network devices like routers and access points. Key features of OpenWrt include its exceptional customizability, broad hardware compatibility, and a strong emphasis on network security. Users can leverage the flexibility of OpenWrt to tailor and configure network functions to their specific needs, adding various extensions and applications such as VPN, QoS, ad-blocking, and more. This makes OpenWrt a preferred choice for advanced users, network administrators, and tech enthusiasts seeking greater control and performance optimization for their networks.\n      The open-source nature of OpenWrt fosters an active community that consistently provides support, documentation, and updates to ensure system stability and security. Additionally, OpenWrt supports multiple languages and protocols, making it suitable for various network environments. In summary, OpenWrt provides users with a powerful, customizable platform for managing network devices, allowing them to build secure, high-performance network solutions tailored to their requirements."
+    },
+    "version": "23.05.0-x86-64-generic",
+    "author": "official",
+    "date": "2023.10.14",
+    "download": [
+      {
+        "file_name": "openwrt.img.gz",
+        "size": 11275439,
+        "urls": "https://gate.radxa.com/palmshell/RoobiOS/releases/download/openwrt23.05/openwrt-23.05.0-x86-64-generic-ext4-combined-efi.img.gz",
+        "md5": "54544d3610c85d8c56a139d00b68dd29",
+        "sig": "hF5D4Dl33wipCixly3WAtvces5Y+LJuTpwYqah0tAjdu1sJznF9lO7k2ZjPpJ67J5ck+44DUMtekxV58ha7q2hKx9IvQxJrv/lr08wtiXJIoqOC3/bm65+3WHZ/pvMsUpQoipQDMlnz26COLXb3kMn21FCPYCkYfwO8B2KD3EF/NGnsaEo8m1VYYaVmbFosibXObj7QvgipdlG8dJbQ52/gOlQcd9Q0Z8NZiosqWC/Co+2/XR4r7Rc7OyjM0ff9HuApJSLlUxcPUFpxSKDB+4anFdX/MNXptDHNbAHc9e5bKJc/y4Qy3yEudoPnF69jkHC7O2N3+Xoy0z1XA+XaibA=="
+      },
+      {
+        "file_name": "after.sh",
+        "size": 235,
+        "urls": "https://gate.radxa.com/palmshell/RoobiOS/releases/download/openwrt23.05/openwrt.sh",
+        "md5":"d79e44667daa9c3ac299dda95ede29d7",
+        "sig": "CNRUvc7rOJ5xOof/mWIjbuLYyuTSeA4oXsAmYKQNYmUp8gkX7iyoA7hKyqJMVfF/jdWxCkp2o8ZyQCEGwfsF2JdUoD8Q3hnsx6PgHJR4WGS0H1BO2rV9k8YEvA7gkHPz9or/RDVSyjvSG1oAQC9/sPXvbisQYfn9T5GyPrOcEIZ1HQS5Be5wHsymdJwKP8RV4HM/UpIMqFQYqeDINe6IKIRgCI3kdJX2dZ2olO5pL2SPGWUI//5rWlVRzn//bWbXANr8AD0xPhuWMEWde3wB2Lx9P/Xjj3JbbgI7HfbcPzA4uHshvecQHaFfG6NsYMR035QJ1sVfOOFzISMXFuf0Tg=="
+      }
+    ],
+    "require": [
+      {
+        "name": "disk",
+        "description": {
+          "en": "Choose the disk to install.",
+          "zh-CN": "选择安装的磁盘"
+        },
+        "type": "DISK"
+      }
+    ],
+    "scripts": [
+      {
+        "type": "auto",
+        "text": "start",
+        "size": 126353408
+      }
+    ]
+  }

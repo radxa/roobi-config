@@ -1,7 +1,7 @@
 {
     "script_version": "1",
     "uuid": "3cc01d2044d543c3ad3ad20380619afb",
-    "name": "fedora",
+    "name": "Fedora",
     "img": "https://fedoraproject.org/assets/images/logos/fedora-blue.png",
     "description": {
       "zh-CN": "Fedora 是一个免费且开源的操作系统，它基于 Linux。它被广泛用于个人电脑和服务器，以其稳定性和安全性而闻名。Fedora 由社区驱动，得到了 Red Hat（一家著名的软件公司）的支持。它经常更新，提供最新的软件和特性。对于喜欢尝试新技术的用户来说，Fedora 是一个不错的选择。",

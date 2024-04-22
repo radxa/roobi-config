@@ -1,0 +1,30 @@
+{
+	"uuid": "749e4cc5914543be89e1f644aa2ead7a",
+	"description": {
+		"zh-CN": "这个版本得到官方支持。这个版本非常简化，旨在用于无头（headless）使用。我们不支持在这个版本上进行桌面使用。",
+		"en": "This flavor is officially supported. This flavor is quite minimal and is intended for headless usage. We do not support desktop usage on top of this flavor."
+	},
+	"date": "2024-04-17",
+	"version": "b1",
+	"author": "official",
+	"download": [
+		{
+			"file_name": "install.img.xz",
+			"size": 341015164,
+			"files": [
+				"https://gate.radxa.com/radxa-build/rock-5-itx/releases/download/b1/rock-5-itx_debian_bullseye_cli_b1.img.xz"
+			],
+			"md5": "c0b9dab91083be5efcb2cd5121b79244",
+			"sig": "ahUGQM30pxu5p63DaBKDdcZf1U0upQ6aGHIFDDRMRsWX/FfF8mSkz5qbXpf9DArAlfnx4Texf8p1y1hQ1dbvMKvO5I/u3oAamIDq9x9isVPIKPqSM8043t19ifyuS4luVbGTpZsKdxuVvJkvMO+8DqBmrf16nczgZ0LvvK3YIY9dmViULIPoBy5lpZgivwKEY9a8EdxTO1sHJHDFZcQzeogQXyKOl40JEneDWojtPpL4MiwQ9yiQQv2va4+O2RgMX4cqCfWgySH1K9XG1zSX+5jE/vChNpky332b9Wx4K4V0REc6vcxJog3kRaoyKMGy+5J3nxzNqnel1Jf7jN3iVQ=="
+		}
+	],
+	"name": "ROCK5-ITX Debian Cli",
+	"scripts": [
+		{
+			"type": "auto",
+			"text": "start",
+			"size": 2547647488
+		}
+	],
+	"script_version": "1"
+}

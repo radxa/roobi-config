@@ -11,7 +11,7 @@
 		{
 			"file_name": "install.img.xz",
 			"size": 341015164,
-			"files": [
+			"urls": [
 				"https://gate.radxa.com/radxa-build/rock-5-itx/releases/download/b1/rock-5-itx_debian_bullseye_cli_b1.img.xz"
 			],
 			"md5": "c0b9dab91083be5efcb2cd5121b79244",

@@ -1,12 +1,22 @@
 [
   {
     "uuid": "749e4cc5914543be89e1f644aa2ead7a",
-    "name": "ROCK5-ITX Debian Cli",
+    "name": "Debian Cli",
     "url": "https://roobi.radxa.com/ps009/images/Debian_b1.json"
   },
   {
     "uuid": "Fake UUID",
-    "name": "ROCK5-ITX Debian",
+    "name": "Debian",
+    "url": "https://roobi.radxa.com/ps009/images/Debian_b1_kde.json"
+  },
+  {
+    "uuid": "Fake UUID1",
+    "name": "Ubuntu",
+    "url": "https://roobi.radxa.com/ps009/images/Debian_b1_kde.json"
+  },
+  {
+    "uuid": "Fake UUID2",
+    "name": "Android",
     "url": "https://roobi.radxa.com/ps009/images/Debian_b1_kde.json"
   }
 ]

@@ -19,7 +19,7 @@
 			"sig": "ahUGQM30pxu5p63DaBKDdcZf1U0upQ6aGHIFDDRMRsWX/FfF8mSkz5qbXpf9DArAlfnx4Texf8p1y1hQ1dbvMKvO5I/u3oAamIDq9x9isVPIKPqSM8043t19ifyuS4luVbGTpZsKdxuVvJkvMO+8DqBmrf16nczgZ0LvvK3YIY9dmViULIPoBy5lpZgivwKEY9a8EdxTO1sHJHDFZcQzeogQXyKOl40JEneDWojtPpL4MiwQ9yiQQv2va4+O2RgMX4cqCfWgySH1K9XG1zSX+5jE/vChNpky332b9Wx4K4V0REc6vcxJog3kRaoyKMGy+5J3nxzNqnel1Jf7jN3iVQ=="
 		}
 	],
-	"name": "ROCK5-ITX Debian Cli",
+	"name": "Debian Cli",
 	"scripts": [
 		{
 			"type": "auto",

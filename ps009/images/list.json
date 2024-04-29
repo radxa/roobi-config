@@ -5,6 +5,8 @@
     "url": "https://roobi.radxa.com/ps009/images/Debian_b1.json"
   },
   {
-
+    "uuid": "f817f4bf930547a486636f47f6021daf",
+    "name": "Debian KDE",
+    "url": "https://roobi.radxa.com/ps009/images/Debian_kde.json"
   }
 ]

@@ -1,0 +1,31 @@
+{
+  "uuid": "f817f4bf930547a486636f47f6021daf",
+  "description": {
+    "en": "这个版本是官方支持、经过测试和推荐给所有用户的。",
+    "zh-cn": "This flavor is officially supported, tested, and recommended for all users. "
+  },
+  "img": "https://roobi.radxa.com/pic/debian.svg",
+  "download": [
+    {
+      "file_name": "install.img.xz",
+      "size": 1432298412,
+      "urls": [
+        "https://gate.radxa.com/radxa-build/rock-5-itx/releases/download/b3/rock-5-itx_debian_bullseye_kde_b3.img.xz"
+      ],
+      "md5": "c9dcc11bc98bafebb7eca69f5a023d46",
+      "sig": "A8llGMU+MIkM0qbXWZunaNOGBVmFMhqW2M5wV2oX8bDKRAKS9tXGWPhlBE9sfPGOL2ecKwu/Vyuq1dwGbd1dGPBUJ+5O837xD4LfoC/wlVgbmy/dISiRRD4QaxK222ti839lJgO+KaGnse/1U2Hm6s9Qje5sXuR6LI4TntrAPlxJa7a1pxA+o4H/vvc26sX724OQBL+46aIcyeZHuUsUI7ihmoXJJu1wdix8r+sgPx/Iy6oqRB9x0bpQchunhpb/85tnhESLeB0Ioj3U4P7+aY9qAxsls4SeKuHjiPvjUTMg3zMXZiYuBy8mX5bszfQpAzhkHoRyaW1cbpc4EEnTQA=="
+    }
+  ],
+  "name": "Debian KDE",
+  "version": "b3",
+  "author": "official",
+  "date": "2024-04-17",
+  "scripts": [
+    {
+      "type": "auto",
+      "text": "start",
+      "size": 5999997952
+    }
+  ],
+  "script_version": "1"
+}

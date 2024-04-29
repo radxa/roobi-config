@@ -5,18 +5,8 @@
     "url": "https://roobi.radxa.com/ps009/images/Debian_b1.json"
   },
   {
-    "uuid": "Fake UUID",
-    "name": "Debian",
-    "url": "https://roobi.radxa.com/ps009/images/Debian_b1_kde.json"
-  },
-  {
-    "uuid": "Fake UUID1",
-    "name": "Ubuntu",
-    "url": "https://roobi.radxa.com/ps009/images/Debian_b1_kde.json"
-  },
-  {
-    "uuid": "Fake UUID2",
-    "name": "Android",
-    "url": "https://roobi.radxa.com/ps009/images/Debian_b1_kde.json"
+    "uuid": "f817f4bf930547a486636f47f6021daf",
+    "name": "Debian KDE",
+    "url": "https://roobi.radxa.com/ps009/images/Debian_kde.json"
   }
 ]

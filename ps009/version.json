@@ -1,5 +1,5 @@
 {
   "version": "v1.2.1",
-  "package_url": "https://palmshell/RoobiOS/releases/download/new-ps009-v1.2.1/new-ps009-v1.2.1.zip",
-  "sig_url": "https://gate.radxa.com/github.com/palmshell/RoobiOS/releases/download/new-ps009-v1.2.1/new-ps009-v1.2.1.zip.sig"
+  "package_url": "https://gate.radxa.com/palmshell/RoobiOS/releases/download/new-ps009-v1.2.1/new-ps009-v1.2.1.zip",
+  "sig_url": "https://gate.radxa.com/palmshell/RoobiOS/releases/download/new-ps009-v1.2.1/new-ps009-v1.2.1.zip.sig"
 }

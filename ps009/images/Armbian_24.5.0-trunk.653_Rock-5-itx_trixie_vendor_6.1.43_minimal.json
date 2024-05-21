@@ -9,7 +9,7 @@
     {
       "file_name": "before.sh",
       "size": 1119,
-      "files": [
+      "urls": [
         "https://gate.radxa.com/palmshell/RoobiOS/releases/download/itx-uboot-spi-flash/before.sh"
       ],
       "md5": "a2cb632b124ef2aa6e3fbcd3d7e69bea",
@@ -18,7 +18,7 @@
     {
       "file_name": "fast_flash_spi.py",
       "size": 894,
-      "files": [
+      "urls": [
         "https://gate.radxa.com/palmshell/RoobiOS/releases/download/itx-uboot-spi-flash/fast_flash_spi.py"
       ],
       "md5": "b97911355af3f6e4344ba44a86ed0af7",
@@ -27,7 +27,7 @@
     {
       "file_name": "spi_image.xz",
       "size": 548988,
-      "files": [
+      "urls": [
         "https://gate.radxa.com/palmshell/RoobiOS/releases/download/itx-uboot-spi-flash/spi_image.xz"
       ],
       "md5": "f232b01a57d0bb5eea1b25bd47bb7d78",
@@ -36,7 +36,7 @@
     {
       "file_name": "u-boot-rknext_2017.09-27-44733d4_arm64.deb",
       "size": 2465712,
-      "files": [
+      "urls": [
         "https://gate.radxa.com/palmshell/RoobiOS/releases/download/itx-uboot-spi-flash/u-boot-rknext_2017.09-27-44733d4_arm64.deb"
       ],
       "md5": "fbc5a351bd137b0799edd459ffc84c8f",
@@ -45,7 +45,7 @@
     {
       "file_name": "u-boot-rock-5-itx_2017.09-27-e7f57d7_all.deb",
       "size": 1116,
-      "files": [
+      "urls": [
         "https://gate.radxa.com/palmshell/RoobiOS/releases/download/itx-uboot-spi-flash/u-boot-rock-5-itx_2017.09-27-e7f57d7_all.deb"
       ],
       "md5": "dc0ebe53c7851a0c01182ffc54983871",

@@ -53,7 +53,7 @@
     },
     {
       "file_name": "install.img.xz",
-      "size": 1216389020,
+      "size": 1314799524,
       "urls": [
         "https://gate.radxa.com/palmshell/RoobiOS/releases/download/Armbian_24.5.0-trunk.653/Armbian_24.5.0-trunk.653_Rock-5-itx_jammy_vendor_6.1.43_gnome-amazingfated_desktop.img.xz"
       ],

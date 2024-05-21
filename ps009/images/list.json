@@ -1,13 +1,8 @@
 [
   {
-    "uuid": "749e4cc5914543be89e1f644aa2ead7a",
-    "name": "Debian Cli",
-    "url": "https://roobi.radxa.com/ps009/images/Debian_b1.json"
-  },
-  {
-    "uuid": "f817f4bf930547a486636f47f6021daf",
+    "uuid": "309601643f154659bc8651ff75ad76d7",
     "name": "Debian KDE",
-    "url": "https://roobi.radxa.com/ps009/images/Debian_kde.json"
+    "url": "https://roobi.radxa.com/ps009/images/Debian_kde_b4.json"
   },
   {
     "uuid": "9f6bd2f07c3445c1a91d045dd905d9bd",

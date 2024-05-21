@@ -10,13 +10,13 @@
     "url": "https://roobi.radxa.com/ps009/images/Debian_kde.json"
   },
   {
-    "uuid": "b9637a42e4bf4840978c12610c55631f",
+    "uuid": "9f6bd2f07c3445c1a91d045dd905d9bd",
     "name": "Armbian Desktop",
-    "url": "https://roobi.radxa.com/ps009/images/armbian_desktop.json"
+    "url": "https://roobi.radxa.com/ps009/images/Armbian_24.5.0-trunk.653_Rock-5-itx_jammy_vendor_6.1.43_gnome-amazingfated_desktop.json"
   },
   {
-    "uuid": "22563eaeb3cd4c14939106e3e85402d3",
+    "uuid": "3e1f009be65f423ab964ff382d4dce1b",
     "name": "Armbian Minimal",
-    "url": "https://roobi.radxa.com/ps009/images/armbian_minimal.json"
+    "url": "https://roobi.radxa.com/ps009/images/Armbian_24.5.0-trunk.653_Rock-5-itx_trixie_vendor_6.1.43_minimal.json"
   }
 ]

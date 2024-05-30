@@ -12,8 +12,8 @@
       "urls": [
         "https://gate.radxa.com/palmshell/RoobiOS/releases/download/itx-uboot-spi-flash-1/before.sh"
       ],
-      "md5": "b4b851b399c6b2142fc44aa4760640cd",
-      "sig": "LR3ZOZcFeEHIbff9T5mXs/ZZbmgfS37NK18wwotvz2sfhUorYZm9Ip0dkRW7nyhs5KdfFmMRKCfSp8qDwhyjr+ugYN1TrUCC8EVdCD7jmgvrJKNS7wO/PpLlHM694M4sb5qYYSHN+8cBof3Tvf/N86jiml3NDbTHgfE9zM08sk63zFLnMqa0HbMLzWJqZ3udMUiuW5IsEqJ7J3N0GFAeZEidk/b1cx9622MJjlfkTXXp5lKWcmpFlhXZO1Uhd42knQ/FSDCYnIfArU3uzZ3V6HAafoev8RkPfi956iRijZXv9K/h4h9GZ8pp3VPM9P7m406bMUmlOTUZjfAAXgKZ5w=="
+      "md5": "87059f3298d634d4071c704d30c4b5f3",
+      "sig": "i+A0JRfM0RBtLpcAqY5+3QiTXTxWkwDoiqK1/DccyEYHAoDO8PqfC0DOYLX/iDNVM9nFg4Vwrvop8sk1rDEZuKbY9oedaXz5ctMJA09BzumgY4GMWNZYgemsSxXsRkKUwWmpHFPOXDu1NlfFvuYXSrZK4lnABYAMWdzuV2ow1mibJJzpma2Xy30c3wxZSdu0qTCdeovHxQFsFwWI1Wr/WIgeXOx1I8JkxyWPFjyGcghQYomkmvqrB8hIyoc7pIwQLojQY1OKSoQSCxE/3sdFg2hlAc5ur/blO/1C/RRn5lbY1C215PNaxpUOGixlWb9AXcLtBOkqkU9QXCmNDmyzUA=="
     },
     {
       "file_name": "fast_flash_spi.py",

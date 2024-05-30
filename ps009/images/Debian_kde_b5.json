@@ -8,7 +8,7 @@
   "download": [
     {
       "file_name": "before.sh",
-      "size": 1162,
+      "size": 1157,
       "urls": [
         "https://gate.radxa.com/palmshell/RoobiOS/releases/download/itx-uboot-spi-flash-1/before.sh"
       ],

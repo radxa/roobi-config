@@ -57,7 +57,7 @@
       "urls": [
         "https://gate.radxa.com/palmshell/RoobiOS/releases/download/Armbian_24.8.0-trunk.46_Rock-5-itx_jammy_vendor_6.1.43_kde-neon-oibaf_desktop/Armbian_24.8.0-trunk.46_Rock-5-itx_jammy_vendor_6.1.43_kde-neon-oibaf_desktop.img.xz"
       ],
-      "md5": "b4c8515905f4df37823402c74e2ffa59",
+      "md5": "b4c8515905f4df37823402c74e2ffa59"
     }
   ],
   "name": "Armbian Desktop",

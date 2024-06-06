@@ -1,0 +1,76 @@
+{
+  "uuid": "e7572b06074e444c95a8f5d79c310683",
+  "description": {
+    "zh-CN": "这个版本是官方支持、经过测试和推荐给所有用户的。",
+    "en": "This flavor is officially supported, tested, and recommended for all users. "
+  },
+  "img": "https://roobi.radxa.com/pic/debian.svg",
+  "download": [
+    {
+      "file_name": "before.sh",
+      "size": 1157,
+      "urls": [
+        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/itx-uboot-spi-flash-1/before.sh"
+      ],
+      "md5": "87059f3298d634d4071c704d30c4b5f3",
+      "sig": "i+A0JRfM0RBtLpcAqY5+3QiTXTxWkwDoiqK1/DccyEYHAoDO8PqfC0DOYLX/iDNVM9nFg4Vwrvop8sk1rDEZuKbY9oedaXz5ctMJA09BzumgY4GMWNZYgemsSxXsRkKUwWmpHFPOXDu1NlfFvuYXSrZK4lnABYAMWdzuV2ow1mibJJzpma2Xy30c3wxZSdu0qTCdeovHxQFsFwWI1Wr/WIgeXOx1I8JkxyWPFjyGcghQYomkmvqrB8hIyoc7pIwQLojQY1OKSoQSCxE/3sdFg2hlAc5ur/blO/1C/RRn5lbY1C215PNaxpUOGixlWb9AXcLtBOkqkU9QXCmNDmyzUA=="
+    },
+    {
+      "file_name": "fast_flash_spi.py",
+      "size": 939,
+      "urls": [
+        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/itx-uboot-spi-flash-1/fast_flash_spi.py"
+      ],
+      "md5": "173fe24a2c7a104fb8ea669514668e5d",
+      "sig": "POiDgimUrjSkvzhuuDUTFujIRKHb5mcniVYb8lVII6QLBTTeRnpwBSf6W+ZZLB3NDxBT8EQzvsOJR9h9nWg95aFDrxQlH9pQ62oZVKwNT/Is+fLy1054EPJqfulgIkilozQYFkCFZ5+5ZUq5DOCMy+VGhEYTVFjC/UjstDx1yqatp9MxNJPYD0JJJZE1YJdU5q20Hp6aGCbHivtGsp8hugjsnnsL3WMDU5sIPZp2g+Qb0WPJe26cabPn+aYSuH78V59WKOfKNLxp3anuz2AtJzc0bWv8TbTsw9Lt2YaJaYIvhKHdkYCsu32gsFedHFNoRFQ+v18gp6kki24MtCt+PA=="
+    },
+    {
+      "file_name": "spi_image.xz",
+      "size": 558520,
+      "urls": [
+        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/itx-uboot-spi-flash-1/spi_image.xz"
+      ],
+      "md5": "81bfb842e686f05e11e20c0e47d001fa",
+      "sig": "iuMgSwQQoqfb6SZ5I5PpN+edfuZ0C2QZKjGQPrWXCq5/AmvWWStsFnsOMj4Gs6yQMxeny7k1L6yuRVeK0df/3W14smtgFnxPw8Wu0Czcn+6fw1yZ7/t3AyerNwgZY1/GMjy/WL0CFOPZ4nAq1+FNS484wt3hNiaMVowxM1x+8tngpcW1IVXeGMGD9zJrNi1ljg4fZEXk7VeP7wpmANMhUbDGgynZ8oS84h/8IQGGdVMknOpZO76ZW4fK3/GaoiNj8TUHS6oBTwCJZ3DGeZ+wU/Afd9gv8pOA9YPkGDB2mTS59bfg7fDK7tav6HN53VGUhpvkz6zR5ppTI7VfbqJMcQ=="
+    },
+    {
+      "file_name": "u-boot-rknext_2017.09-28-d1cf491_arm64.deb",
+      "size": 2463040,
+      "urls": [
+        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/itx-uboot-spi-flash-1/u-boot-rknext_2017.09-28-d1cf491_arm64.deb"
+      ],
+      "md5": "ede26fe1ee6bbdfc218adbe7881fb277",
+      "sig": "RIGKybK3WzMhiAhJD4BPkG40LXA4UC/hnb4MbjyO0+KveB8X89dCZdJEnWshlrohlLy7rUdFoPV5a55d0PdUQEnVad+lEUDosXl5j6XdMHc0wtr61xRMrGYftvWseNPIWdSSBzCluxncgL0QuT5T6xcANlXN2HC8PNT8uPd9DvgNlehxIW9SLFlWszzTe429XNr1mPAz6sEjGKZjLfsk+VyeGJyD+T0F3lEV4a7ItmnAr5/dL4jv9E4Rna9GEgtmYMNJVPpa6SY7EnEfjCxNg0EZVpP/Kk2vp+tNnYKmgcmsgu7P0v09+LISlfkfBPI801F6goSRwRmTZM9cKnb6BQ=="
+    },
+    {
+      "file_name": "u-boot-rock-5-itx_2017.09-28-97d2f62_all.deb",
+      "size": 1112,
+      "urls": [
+        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/itx-uboot-spi-flash-1/u-boot-rock-5-itx_2017.09-28-97d2f62_all.deb"
+      ],
+      "md5": "c5b39cc1c2cfaae622a38a7f7c9c8ca0",
+      "sig": "YkaGtU5mEl1wViFn/DQRMtzI723t9PHKd3LLNI8Lxmo4pMO6NFKjqtq4V+6fhEfRcURbvXyIgvVQ9uKMOcF7KMmW3bB6GImjkiQd50R/tuCDLHESNFgKyuXxzbM22T7M/AF78i//moISS58g8TIif2Ml730VyX/V+OZbBRdb8BugZ9HwKO46EbD80x/iKiuC0FMpi0NM9MvqC2bOUZTRA3EnlnlEPb4rIq50Jr3vRnZ6MkjbHxnDl6QcVGPcj8u1DozCFoauQmFb2rUgYOODZ7Rxg/8IjeddNIJYaCIfWzFvnJm4c78oaa8CjLt78AubBucKJgYgE7BMvsN2yPj8hw=="
+    },
+    {
+      "file_name": "install.img.xz",
+      "size": 1429205036,
+      "urls": [
+        "https://gate.radxa.com/radxa-build/rock-5-itx/releases/download/b6/rock-5-itx_debian_bullseye_kde_b6.img.xz"
+      ],
+      "md5": "2a6814fec95a7afb126f5b0bc8b08210",
+      "sig": "cIoLJsx7f8NcAyOcjEhuFXgj726vhjE1Q6jwarKzWBA9MNxIjHkysBiEqAJmrmH3OF756JCXSCzw4Xr6JuTgvfgilEBF1MHmyWrK4fjf1/sFgAOA2WuMLt2tVEl7Ss7xrxWGh4CDsma5c39rGjY8ISoTcG74ANoJlXZp8Y6RAeyXqZ2bR8QDSzjppjq0bEUpdhlIkc/w9WnUPKF4YVl7r05Kk2w2z6jT7U/ZziD05i5KGG6amgtCqFGdyE09BTeP0DWQKkAsXpSwbBOvJhXa2SelJLU6GCdbwFffq1e+Nku+vPfFxhjXMPLTHPJf+7jJz9zlr4/8o/dTrqCiFpMKaw=="
+    }
+  ],
+  "name": "Debian KDE",
+  "version": "b6",
+  "author": "official",
+  "date": "2024-06-06",
+  "scripts": [
+    {
+      "type": "auto",
+      "text": "start",
+      "size": 5999997952
+    }
+  ],
+  "script_version": "1"
+}

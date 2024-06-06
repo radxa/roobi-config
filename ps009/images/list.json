@@ -1,17 +1,12 @@
 [
   {
-    "uuid": "309601643f154659bc8651ff75ad76d7",
+    "uuid": "156679e0e9c64facb4140813ea0d1d6d",
     "name": "Debian KDE",
-    "url": "https://roobi.radxa.com/ps009/images/Debian_kde_b4.json"
+    "url": "https://roobi.radxa.com/ps009/images/Debian_kde_b5.json"
   },
   {
-    "uuid": "9f6bd2f07c3445c1a91d045dd905d9bd",
+    "uuid": "30940f9c615c4c2b969a71d7e339b7de",
     "name": "Armbian Desktop",
-    "url": "https://roobi.radxa.com/ps009/images/Armbian_24.5.0-trunk.653_Rock-5-itx_jammy_vendor_6.1.43_gnome-amazingfated_desktop.json"
-  },
-  {
-    "uuid": "3e1f009be65f423ab964ff382d4dce1b",
-    "name": "Armbian Minimal",
-    "url": "https://roobi.radxa.com/ps009/images/Armbian_24.5.0-trunk.653_Rock-5-itx_trixie_vendor_6.1.43_minimal.json"
+    "url": "https://roobi.radxa.com/ps009/images/Armbian_24.8.0-trunk.46_Rock-5-itx_jammy_vendor_6.1.43_kde-neon-oibaf_desktop.json"
   }
 ]

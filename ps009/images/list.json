@@ -5,8 +5,8 @@
     "url": "https://roobi.radxa.com/ps009/images/Debian_kde_b6_fix.json"
   },
   {
-    "uuid": "30940f9c615c4c2b969a71d7e339b7de",
-    "name": "Armbian Desktop",
-    "url": "https://roobi.radxa.com/ps009/images/Armbian_24.8.0-trunk.46_Rock-5-itx_jammy_vendor_6.1.43_kde-neon-oibaf_desktop.json"
+    "uuid": "798a1745953441559992d10b8277291b",
+    "name": "Armbian Desktop xfce",
+    "url": "https://roobi.radxa.com/ps009/images/Armbian_24.8.2_Rock-5-itx_noble_vendor_6.1.75_xfce_desktop.json"
   }
 ]

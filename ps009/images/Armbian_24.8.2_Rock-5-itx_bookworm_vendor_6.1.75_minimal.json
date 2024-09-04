@@ -1,0 +1,75 @@
+{
+  "uuid": "d599cef0687b4fcc90942d35e3f6e2e7",
+  "description": {
+    "zh-CN": "这是一个来自于 Armbian 的镜像，由第三方进行维护。\n什么是 Armbian ? \nArmbian是一个基于单板计算机（SBCs）的基本操作系统平台，其他项目可以依赖其进行构建。\n它是一个专门针对 ARM 开发板的轻量级 Debian 或 Ubuntu 基础的 Linux 发行版。\n每个系统都是由 Armbian Build 工具编译、组装和优化的。它具有强大的构建和软件开发工具，可以进行定制构建。\n同时也有一个充满活力的社区。\n（来自 Armbian 官方文档的翻译）\n 此处为armbian 捐赠链接: www.armbian.com/donate， 您可以考虑为其捐赠 ",
+    "en": "This is an Armbian image maintained by a third party. \nWhat is Armbian? \nArmbian is a base operating system platform for single board computers (SBCs) that other projects can trust to build upon. \nLightweight Debian or Ubuntu based Linux distribution specialized for ARM development boards. \nEach system is compiled, assembled and optimized by Armbian Build Tools. \nIt has powerful build and software development tools to make custom builds. \nA vibrant community.\nHere is the donation link for Armbian: www.armbian.com/donate/ You may consider making a donation to support their work."
+  },
+  "img": "https://roobi.radxa.com/pic/armbian.svg",
+  "download": [
+    {
+      "file_name": "before.sh",
+      "size": 1119,
+      "urls": [
+        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/itx-uboot-spi-flash/before.sh"
+      ],
+      "md5": "a2cb632b124ef2aa6e3fbcd3d7e69bea",
+      "sig": "Dhxalf0igo2sOYj0exBeuxBITTckYGpHr8EoGyhDhxV/3Irng68QfDkFT8Fr5CC2j0+yU+OZQa+qHKMQodT2HFN0LTUbtjPXXU/SlbCqia8Jqolif10JOAHDeXZ4PTMTxsBLpYJKVaqzmoJdEOGBwFirlcS1xcJuBdQdg+1kPtEvAkI5KV0bn0TxpvalqjQj4lKxQNNPpBb30TFJi/umXOy+FWtHzOmvAFndeaWgg6m3MNiFdWJfLnyeNsxMaWemSfcMdvd5yNSolDfcXwA/4GTj+1tTugPKpGRgwxO0mzJXlQBt77xgBQn5lNG1s/ZSVQG+NSWGp4/1AmTHXpvYGA=="
+    },
+    {
+      "file_name": "fast_flash_spi.py",
+      "size": 894,
+      "urls": [
+        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/itx-uboot-spi-flash/fast_flash_spi.py"
+      ],
+      "md5": "b97911355af3f6e4344ba44a86ed0af7",
+      "sig": "NEBPMpuM7R5fAvyyFeluVwdK6PYs9Sz0X5SZmZ+Bc6lxtJS4W+yw9QNOvRByHcuhOgLhq4tVRBSvUOpxj/r5lUKTqOBndWpAOhPQS3qHo5UME7/q54h1g0iGZzuk92n05AriaYSWsjaMnSXQwlHyOs6KiktVjjcXeTTKrDch5u1alM2pheMgyKOdGc5geQItAirKHMn1KT8YXy69DFS1HeXbhItpMFpwddd8mabPkaP/iJeJt8seochKqrgq0fGYbeQ2RejbuScs2lNxCdqKgOgocfMJtnt7hPxHTRTAxoGsoQ1dOc88Eh1vO+hSBi+VT6/9Zhd49jnUWD9n9raDxQ=="
+    },
+    {
+      "file_name": "spi_image.xz",
+      "size": 548988,
+      "urls": [
+        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/itx-uboot-spi-flash/spi_image.xz"
+      ],
+      "md5": "f232b01a57d0bb5eea1b25bd47bb7d78",
+      "sig": "MIEAwpzZtmMlgjEM0E6InyALm31vFA/5MxK1LTLcF1sIK7H8ddyA6kd8L312gtrT21nQEzFRU/fZYadNE+It2bxACShwOjR1wwfQAVfO6HzKVKgO/V9Rg7dx94ipLYPM4EZarLZPXOa84OfSwmBSLquWeSZum9cByn2A6Dwl761c8mtuPX7tzfdTl3H5i3pSwjboD7K29bqUwTLlPFAoUS/OzVmDizic4to9RvLAuSRV8AHioDwzFaoqXo/amO+V2LRW3MM0dsPQVuNGq5Wv/6+NuN1o6R72o7I0gG5rukYWCxNBTBt6J1WgBkpn/tIxn7GQKjgmhdeA1s3roCEsbQ=="
+    },
+    {
+      "file_name": "u-boot-rknext_2017.09-27-44733d4_arm64.deb",
+      "size": 2465712,
+      "urls": [
+        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/itx-uboot-spi-flash/u-boot-rknext_2017.09-27-44733d4_arm64.deb"
+      ],
+      "md5": "fbc5a351bd137b0799edd459ffc84c8f",
+      "sig": "GzQNTNsllS5hljsrWopHwoz5KmqjpPV8nLnDKxVFo/7EfJuKeViQG2xhmG2Jd2FFrOcrKKhLVVUTqmXO8Dj0seXOjtBgZCOl6PTfXqcJ8Ge/+8BDYbpnPDZ09arYZexnjpn02a1ulWV6RHmF7j9g7LRJrdykTsfO8ofpHH3jYr0pbBswasoYgwTHPZYUk546+D6Q1JTO9q27AOuojSPMFNtRbczox14jSkK4oBXEKi1DSlx6OPk6yzvf/r6Ae1Bxq+4FYG86Qiwwti1pz+f0HfG3GMtb72zE+2Q9P1OY7aQWzXDUTLFyvbAb/fy7G7olqeAm1MVsfmrYGtWKO261oQ=="
+    },
+    {
+      "file_name": "u-boot-rock-5-itx_2017.09-27-e7f57d7_all.deb",
+      "size": 1116,
+      "urls": [
+        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/itx-uboot-spi-flash/u-boot-rock-5-itx_2017.09-27-e7f57d7_all.deb"
+      ],
+      "md5": "dc0ebe53c7851a0c01182ffc54983871",
+      "sig": "c0p/bayGjVxdKkekaw9hYmqGHh0vNHQXFhpd8ju8As+EUIWERBDVLyYXMACGprSr3itCUhmHNqgghwv4lGv+VqZbCQOkv3JBx3fwYo4SIkc5SInRRm6UrjS+nJfJw2hUJrRoAfbCX7ALHAlnqWQRS7SAnVEFm1PIwFXM1wKnsxTRiLUE5h+xCvKItfrPcT4SLd323Qg82GNLE/gl0EGPeoDPRg6a/KYJgHWCxh9kfdBvW9+RcAhZatquSCclKLSoO66zp6CqqA4gbO4gQBkNjizg6Xj9gbE5Q/aw0BJgfzTS1miife1UCunQbox/KqJPo4Mh6+RFHpjXykFe6ItzNw=="
+    },
+    {
+      "file_name": "install.img.xz",
+      "size": 238271932,
+      "urls": [
+        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/armbian_24.8.2/Armbian_24.8.2_Rock-5-itx_bookworm_vendor_6.1.75_minimal.img.xz"
+      ],
+      "md5": "1215f58c023302271d94258cb1537d80"
+    }
+  ],
+  "name": "Armbian Bookworm CLI",
+  "version": "24.8.2_bookworm_vendor_6.1.75_minimal",
+  "author": "Armbian",
+  "date": "2024-08-26",
+  "scripts": [
+    {
+      "type": "auto",
+      "text": "start",
+      "size": 1484783616
+    }
+  ],
+  "script_version": "1"
+}

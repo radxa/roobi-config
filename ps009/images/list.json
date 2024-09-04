@@ -18,5 +18,10 @@
     "uuid": "e2c316e9cde54e52b1f8c5304f1dea9b",
     "name": "Armbian Noble GNOME",
     "url": "https://roobi.radxa.com/ps009/images/Armbian_24.8.2_Rock-5-itx_noble_vendor_6.1.75_gnome-kisak_desktop.json"
+  },
+  {
+    "uuid": "1eb6b1ac413e44b9a4437c14153dba0a",
+    "name": "Armbian Bookworm Cinnamon",
+    "url": "https://roobi.radxa.com/ps009/images/Armbian_24.8.2_Rock-5-itx_bookworm_vendor_6.1.75_cinnamon-backported-mesa_desktop.json"
   }
 ]

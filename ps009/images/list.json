@@ -13,5 +13,10 @@
     "uuid": "83cebd3555f444eab9429480acc3829f",
     "name": "Armbian Jammy KDE",
     "url": "https://roobi.radxa.com/ps009/images/Armbian_24.8.2_Rock-5-itx_jammy_vendor_6.1.75_kde-neon-kisak_desktop.json"
+  },
+  {
+    "uuid": "e2c316e9cde54e52b1f8c5304f1dea9b",
+    "name": "Armbian Noble GNOME",
+    "url": "https://roobi.radxa.com/ps009/images/Armbian_24.8.2_Rock-5-itx_noble_vendor_6.1.75_gnome-kisak_desktop.json"
   }
 ]

@@ -6,7 +6,12 @@
   },
   {
     "uuid": "798a1745953441559992d10b8277291b",
-    "name": "Armbian Desktop xfce",
+    "name": "Armbian Noble XFCE",
     "url": "https://roobi.radxa.com/ps009/images/Armbian_24.8.2_Rock-5-itx_noble_vendor_6.1.75_xfce_desktop.json"
+  },
+  {
+    "uuid": "83cebd3555f444eab9429480acc3829f",
+    "name": "Armbian Jammy KDE",
+    "url": "https://roobi.radxa.com/ps009/images/Armbian_24.8.2_Rock-5-itx_jammy_vendor_6.1.75_kde-neon-kisak_desktop.json"
   }
 ]

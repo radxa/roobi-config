@@ -5,29 +5,9 @@
     "url": "https://roobi.radxa.com/ps009/images/Debian_kde_b6_fix.json"
   },
   {
-    "uuid": "798a1745953441559992d10b8277291b",
-    "name": "Armbian Noble XFCE",
-    "url": "https://roobi.radxa.com/ps009/images/Armbian_24.8.2_Rock-5-itx_noble_vendor_6.1.75_xfce_desktop.json"
-  },
-  {
-    "uuid": "83cebd3555f444eab9429480acc3829f",
-    "name": "Armbian Jammy KDE",
-    "url": "https://roobi.radxa.com/ps009/images/Armbian_24.8.2_Rock-5-itx_jammy_vendor_6.1.75_kde-neon-kisak_desktop.json"
-  },
-  {
     "uuid": "e2c316e9cde54e52b1f8c5304f1dea9b",
     "name": "Armbian Noble GNOME",
     "url": "https://roobi.radxa.com/ps009/images/Armbian_24.8.2_Rock-5-itx_noble_vendor_6.1.75_gnome-kisak_desktop.json"
-  },
-  {
-    "uuid": "1eb6b1ac413e44b9a4437c14153dba0a",
-    "name": "Armbian Bookworm Cinnamon",
-    "url": "https://roobi.radxa.com/ps009/images/Armbian_24.8.2_Rock-5-itx_bookworm_vendor_6.1.75_cinnamon-backported-mesa_desktop.json"
-  },
-  {
-    "uuid": "8915925b9afd4b4f99d6b2a30e7e06b8",
-    "name": "Armbian Bookworm XFCE",
-    "url": "https://roobi.radxa.com/ps009/images/Armbian_24.8.2_Rock-5-itx_bookworm_vendor_6.1.75_xfce_desktop.json"
   },
   {
     "uuid": "d599cef0687b4fcc90942d35e3f6e2e7",

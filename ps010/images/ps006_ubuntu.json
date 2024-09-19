@@ -1,0 +1,50 @@
+{
+    "script_version": "1",
+    "uuid": "58373afacba743b1aa06b8b88dd39211",
+    "name": "Ubuntu",
+    "img": "https://gate.radxa.com/palmshell/RoobiOS/releases/download/ubuntu_image/Ubuntu_logo.png",
+    "description": {
+      "zh-CN": "默认系统用户名和密码均为：“ps”。\n Ubuntu 是一个基于 Debian 的开源 Linux 发行版，它由 Canonical Ltd. 公司支持并推动。Ubuntu 旨在为个人电脑和服务器提供一个用户友好、稳定的操作环境。它包含了许多自由软件，并致力于保持其自由软件的地位。Ubuntu 的哲学是“人人皆可使用”，强调易用性和对所有用户的可访问性。",
+      "en": "The default system username and password is \"ps\". \nUbuntu is an open-source Linux distribution based on Debian, backed and promoted by Canonical Ltd. It aims to provide a user-friendly, stable operating environment for both personal computers and servers. It comprises numerous free software and is committed to retaining its free software status. Ubuntu's philosophy is \"humanity to others,\" emphasizing ease of use and accessibility to all users."
+    },
+    "version": "22.04.3-desktop",
+    "author": "official",
+    "date": "2023.11.28",
+    "download": [
+      {
+        "file_name": "ubuntu.img.gz",
+        "size": 4106550361,
+        "urls": [
+            "https://gate.radxa.com/palmshell/RoobiOS/releases/download/ps006_ubuntu/ps006_ubuntu.img.gzaa",
+            "https://gate.radxa.com/palmshell/RoobiOS/releases/download/ps006_ubuntu/ps006_ubuntu.img.gzab"
+        ],
+        "md5": "4e300537262af652adff783aa8ba0468",
+        "sig": "B4avF0dgpWSvDCIz8AToX/q2QLkYmORGVa29gwbaKayew2/3w1wpS7BlDGsWXYc/JFckw/pD3bQ9LgbZrzAVAEAiW4GNjqs8ocmAnT3SZNes0Kfa7kCR8xXYVK9Y6hWDFGIFnzisXqaJNQPnJdCXIggv/cqaaogWCxoDHk1wvZsf429P8i/d0WssbAVIrI/heh0pBHJ3yOWy0vs2pNM7SWpcV3a2bLyREYdqtvYriw+0jo8spSHPIBrxEeXo/m2waElPBC/Rs46P1aHgSiyKS0g8uzFBNglaCNQtijDu8OD+/xXXq/40B07C7l6DLWyQ5IW4+SFYX6nWHJ3AESo8dg=="
+      },
+      {
+        "file_name": "btusb.ko",
+        "size": 1027208,
+        "urls":[
+          "https://gate.radxa.com/palmshell/RoobiOS/releases/download/ps006_ubuntu/btusb.ko"
+        ],
+        "md5": "a819d20d3433cc971835eb138faa8115",
+        "sig": "WOZ3clUjrG17u/Rq28CdDYoJjFQImpOAx0/6gT0WxT1v0oohEo19nKc4YwB7JPQc6Vi2eXsQBBoLmAsH5izoWpw04MY9/TddVTPKcBc3zsEmeU1hNcovQCGfqrBba3dMh54IEtn5+76ArF19nQhwWb+hhiM2OCJtuinWUEOpkNgPnJAdWSOxjVjjJPjYiDenBDgvOF30ZQcA4F8NhPbpFRlZuZ4dqLuhGHa2heQ8JXQIMLjCIsAyOe8vLqhqyIswKewhwUF9iLBSuIxKmHVKQC4irD3pqu14ZQ7vx5IgZ+1S5QkX1TMYMCCn8AkOxJ5J60cligAu3xYLNOiP8jx+uw=="
+      },
+      {
+        "file_name": "after.sh",
+        "size":258,
+        "urls":[
+          "https://gate.radxa.com/palmshell/RoobiOS/releases/download/ps006_ubuntu/after.sh"
+        ],
+        "md5":"1a4e6cd88e9d14cd816ed5ca5fadf62f",
+        "sig": "L1ySpsRq5diOq5UgGFKo5KzyPMPAWfMxvsbFQ5/BND3Df1MPYbdH+iOtNFAsMd95rneQi3jh+20kR1CALXJQrqp01hkEvMrozwjHxmRvxF71v8C4DWc9I6MkABPUQROP0UfP+RMNSbeF23p/KcHGG7ZAFiLTrQgD/uddG2wZpfcUevLuBBj0D8cQMzj5xxAz74mJ5zw3rQCMgo0PmJAfqQqcwe30vt+D48uoJZvk5T9E+3ir9EGgtz2oM2QuQphICyXsq/nf+nKwItugfS790mzi2uBS4Ck309qF9IFl5ATzCAZ+4Btm1m6ir7YDDfkAwXQJrhu5244e6ERhDgOT1w=="
+      }
+    ],
+    "scripts": [
+      {
+        "type": "auto",
+        "text": "start",
+        "size": 8378605568
+      }
+    ]
+  }

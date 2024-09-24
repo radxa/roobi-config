@@ -55,13 +55,13 @@
       "file_name": "install.img.xz",
       "size": 438174652,
       "urls": [
-        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/armbian_24.8.2/Armbian_24.8.2_Rock-5-itx_noble_vendor_6.1.75_gnome-kisak_desktop.img.xz"
+        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/Armbian_24.8.2_Rock-5-itx_noble_vendor_6.1.75.img/Armbian_24.8.2_Rock-5-itx_noble_vendor_6.1.75.img.xz"
       ],
       "md5": "29ae5c67e17ba9bbd4875c63e5855215"
     }
   ],
   "name": "Armbian Noble CLI",
-  "version": "24.8.2_noble_vendor_6.1.75_gnome-kisak_desktop",
+  "version": "24.8.2_noble_vendor_6.1.75",
   "author": "Armbian",
   "date": "2024-08-26",
   "scripts": [

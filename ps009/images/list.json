@@ -10,13 +10,28 @@
     "url": "https://roobi.radxa.com/ps009/images/Armbian_24.8.2_Rock-5-itx_noble_vendor_6.1.75_gnome-kisak_desktop.json"
   },
   {
-    "uuid": "d599cef0687b4fcc90942d35e3f6e2e7",
-    "name": "Armbian Bookworm CLI",
-    "url": "https://roobi.radxa.com/ps009/images/Armbian_24.8.2_Rock-5-itx_bookworm_vendor_6.1.75_minimal.json"
+    "uuid": "30c946e8e712485ebe5d6e34fb86e8be",
+    "name": "Armbian Noble CLI",
+    "url": "https://roobi.radxa.com/ps009/images/Armbian_24.8.2_Rock-5-itx_noble_vendor_6.1.75.json"
   },
   {
-    "uuid": "2851acc9755747a6940783724824ae61",
+    "uuid": "768d7ad02c274cd2b7e15ac2f5eb1d6a",
+    "name": "Armbian Jammy CLI",
+    "url": "https://roobi.radxa.com/ps009/images/Armbian_24.8.2_Rock-5-itx_jammy_vendor_6.1.75.json"
+  },
+  {
+    "uuid": "1791ef3f8ea9432590320c106071f1f3",
     "name": "Ubuntu Desktop",
-    "url": "https://roobi.radxa.com/ps009/images/ubuntu-24.04-preinstalled-desktop-arm64-rock-5-itx-v2.3.1.json"
+    "url": "https://roobi.radxa.com/ps009/images/ubuntu-24.04-preinstalled-desktop-arm64-rock-5-itx-v2.3.2.json"
+  },
+  {
+    "uuid": "c01ab09440044d21be61ff474f41052a",
+    "name": "Ubuntu Noble CLI",
+    "url": "https://roobi.radxa.com/ps009/images/ubuntu-24.04-preinstalled-server-arm64-rock-5-itx-v2.3.2.json"
+  },
+  {
+    "uuid": "6f57848226e441ff8ef70372a0fd57b0",
+    "name": "Ubuntu Jammy CLI",
+    "url": "https://roobi.radxa.com/ps009/images/ubuntu-22.04-preinstalled-server-arm64-rock-5-itx-v2.3.2.json"
   }
 ]

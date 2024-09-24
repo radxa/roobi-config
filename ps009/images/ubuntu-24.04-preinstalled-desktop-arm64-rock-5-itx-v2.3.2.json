@@ -1,0 +1,75 @@
+{
+  "uuid": "1791ef3f8ea9432590320c106071f1f3",
+  "description": {
+    "zh-CN": "这是一个来自于 Joshua Riek 的 Ubuntu 镜像，由第三方进行维护 \nUbuntu 是一个基于 Debian 的开源 Linux 发行版，它由 Canonical Ltd. 公司支持并推动。Ubuntu 旨在为个人电脑和服务器提供一个用户友好、稳定的操作环境。它包含了许多自由软件，并致力于保持其自由软件的地位。Ubuntu 的哲学是“人人皆可使用”，强调易用性和对所有用户的可访问性。 \n此处为 Joshua Riek 捐赠链接: github.com/sponsors/Joshua-Riek， 您可以考虑为其捐赠。",
+    "en": "This is an Ubuntu image from Joshua Riek maintained by a third party. \nUbuntu is an open-source Linux distribution based on Debian, supported and promoted by Canonical Ltd. Ubuntu aims to provide a user-friendly and stable operating environment for personal computers and servers. It includes a lot of free software and is committed to maintaining its status as free software. Ubuntu's philosophy is \"for everyone,\" emphasizing ease of use and accessibility for all users.\nHere is the donation link for Joshua Riek: github.com/sponsors/Joshua-Riek, you might consider donating."
+  },
+  "img": "https://roobi.radxa.com/pic/ubuntu.svg",
+  "download": [
+    {
+      "file_name": "before.sh",
+      "size": 1119,
+      "urls": [
+        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/itx-uboot-spi-flash/before.sh"
+      ],
+      "md5": "a2cb632b124ef2aa6e3fbcd3d7e69bea",
+      "sig": "Dhxalf0igo2sOYj0exBeuxBITTckYGpHr8EoGyhDhxV/3Irng68QfDkFT8Fr5CC2j0+yU+OZQa+qHKMQodT2HFN0LTUbtjPXXU/SlbCqia8Jqolif10JOAHDeXZ4PTMTxsBLpYJKVaqzmoJdEOGBwFirlcS1xcJuBdQdg+1kPtEvAkI5KV0bn0TxpvalqjQj4lKxQNNPpBb30TFJi/umXOy+FWtHzOmvAFndeaWgg6m3MNiFdWJfLnyeNsxMaWemSfcMdvd5yNSolDfcXwA/4GTj+1tTugPKpGRgwxO0mzJXlQBt77xgBQn5lNG1s/ZSVQG+NSWGp4/1AmTHXpvYGA=="
+    },
+    {
+      "file_name": "fast_flash_spi.py",
+      "size": 894,
+      "urls": [
+        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/itx-uboot-spi-flash/fast_flash_spi.py"
+      ],
+      "md5": "b97911355af3f6e4344ba44a86ed0af7",
+      "sig": "NEBPMpuM7R5fAvyyFeluVwdK6PYs9Sz0X5SZmZ+Bc6lxtJS4W+yw9QNOvRByHcuhOgLhq4tVRBSvUOpxj/r5lUKTqOBndWpAOhPQS3qHo5UME7/q54h1g0iGZzuk92n05AriaYSWsjaMnSXQwlHyOs6KiktVjjcXeTTKrDch5u1alM2pheMgyKOdGc5geQItAirKHMn1KT8YXy69DFS1HeXbhItpMFpwddd8mabPkaP/iJeJt8seochKqrgq0fGYbeQ2RejbuScs2lNxCdqKgOgocfMJtnt7hPxHTRTAxoGsoQ1dOc88Eh1vO+hSBi+VT6/9Zhd49jnUWD9n9raDxQ=="
+    },
+    {
+      "file_name": "spi_image.xz",
+      "size": 548988,
+      "urls": [
+        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/itx-uboot-spi-flash/spi_image.xz"
+      ],
+      "md5": "f232b01a57d0bb5eea1b25bd47bb7d78",
+      "sig": "MIEAwpzZtmMlgjEM0E6InyALm31vFA/5MxK1LTLcF1sIK7H8ddyA6kd8L312gtrT21nQEzFRU/fZYadNE+It2bxACShwOjR1wwfQAVfO6HzKVKgO/V9Rg7dx94ipLYPM4EZarLZPXOa84OfSwmBSLquWeSZum9cByn2A6Dwl761c8mtuPX7tzfdTl3H5i3pSwjboD7K29bqUwTLlPFAoUS/OzVmDizic4to9RvLAuSRV8AHioDwzFaoqXo/amO+V2LRW3MM0dsPQVuNGq5Wv/6+NuN1o6R72o7I0gG5rukYWCxNBTBt6J1WgBkpn/tIxn7GQKjgmhdeA1s3roCEsbQ=="
+    },
+    {
+      "file_name": "u-boot-rknext_2017.09-27-44733d4_arm64.deb",
+      "size": 2465712,
+      "urls": [
+        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/itx-uboot-spi-flash/u-boot-rknext_2017.09-27-44733d4_arm64.deb"
+      ],
+      "md5": "fbc5a351bd137b0799edd459ffc84c8f",
+      "sig": "GzQNTNsllS5hljsrWopHwoz5KmqjpPV8nLnDKxVFo/7EfJuKeViQG2xhmG2Jd2FFrOcrKKhLVVUTqmXO8Dj0seXOjtBgZCOl6PTfXqcJ8Ge/+8BDYbpnPDZ09arYZexnjpn02a1ulWV6RHmF7j9g7LRJrdykTsfO8ofpHH3jYr0pbBswasoYgwTHPZYUk546+D6Q1JTO9q27AOuojSPMFNtRbczox14jSkK4oBXEKi1DSlx6OPk6yzvf/r6Ae1Bxq+4FYG86Qiwwti1pz+f0HfG3GMtb72zE+2Q9P1OY7aQWzXDUTLFyvbAb/fy7G7olqeAm1MVsfmrYGtWKO261oQ=="
+    },
+    {
+      "file_name": "u-boot-rock-5-itx_2017.09-27-e7f57d7_all.deb",
+      "size": 1116,
+      "urls": [
+        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/itx-uboot-spi-flash/u-boot-rock-5-itx_2017.09-27-e7f57d7_all.deb"
+      ],
+      "md5": "dc0ebe53c7851a0c01182ffc54983871",
+      "sig": "c0p/bayGjVxdKkekaw9hYmqGHh0vNHQXFhpd8ju8As+EUIWERBDVLyYXMACGprSr3itCUhmHNqgghwv4lGv+VqZbCQOkv3JBx3fwYo4SIkc5SInRRm6UrjS+nJfJw2hUJrRoAfbCX7ALHAlnqWQRS7SAnVEFm1PIwFXM1wKnsxTRiLUE5h+xCvKItfrPcT4SLd323Qg82GNLE/gl0EGPeoDPRg6a/KYJgHWCxh9kfdBvW9+RcAhZatquSCclKLSoO66zp6CqqA4gbO4gQBkNjizg6Xj9gbE5Q/aw0BJgfzTS1miife1UCunQbox/KqJPo4Mh6+RFHpjXykFe6ItzNw=="
+    },
+    {
+      "file_name": "install.img.xz",
+      "size": 1838955360,
+      "urls": [
+        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/ubuntu-24.04-preinstalled-desktop-arm64-rock-5-itx-v2.3.2/ubuntu-24.04-preinstalled-desktop-arm64-rock-5-itx.img.xz"
+      ],
+      "md5": "b3ec041450276c2332ba0bbf9dd3fbe6"
+    }
+  ],
+  "name": "Ubuntu Desktop",
+  "version": "v2.3.2-24.04-preinstalled-desktop",
+  "author": "Joshua Riek",
+  "date": "2024-09-05",
+  "scripts": [
+    {
+      "type": "auto",
+      "text": "start",
+      "size": 7395606528
+    }
+  ],
+  "script_version": "1"
+}

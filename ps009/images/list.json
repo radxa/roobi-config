@@ -1,7 +1,7 @@
 [
   {
     "uuid": "26cbf15b3066431d86418809b7468fae",
-    "name": "Debian KDE",
+    "name": "Radxa OS",
     "url": "https://roobi.radxa.com/ps009/images/Debian_kde_b6_fix.json"
   },
   {
@@ -11,12 +11,12 @@
   },
   {
     "uuid": "30c946e8e712485ebe5d6e34fb86e8be",
-    "name": "Armbian Noble CLI",
+    "name": "Armbian Noble Server / CLI",
     "url": "https://roobi.radxa.com/ps009/images/Armbian_24.8.2_Rock-5-itx_noble_vendor_6.1.75.json"
   },
   {
     "uuid": "768d7ad02c274cd2b7e15ac2f5eb1d6a",
-    "name": "Armbian Jammy CLI",
+    "name": "Armbian Jammy Server / CLI",
     "url": "https://roobi.radxa.com/ps009/images/Armbian_24.8.2_Rock-5-itx_jammy_vendor_6.1.75.json"
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "uuid": "c01ab09440044d21be61ff474f41052a",
-    "name": "Ubuntu Noble CLI",
+    "name": "Ubuntu Noble Server",
     "url": "https://roobi.radxa.com/ps009/images/ubuntu-24.04-preinstalled-server-arm64-rock-5-itx-v2.3.2.json"
   },
   {
     "uuid": "6f57848226e441ff8ef70372a0fd57b0",
-    "name": "Ubuntu Jammy CLI",
+    "name": "Ubuntu Jammy Server",
     "url": "https://roobi.radxa.com/ps009/images/ubuntu-22.04-preinstalled-server-arm64-rock-5-itx-v2.3.2.json"
   }
 ]

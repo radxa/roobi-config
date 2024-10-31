@@ -10,6 +10,11 @@
     "url": "https://roobi.radxa.com/ps006/images/ps006_ubuntu.json"
   },
   {
+    "uuid": "e5d6baf6185d418d9397983709f97009",
+    "name": "Windows 10",
+    "url": "https://roobi.radxa.com/ps010/images/windows10-cn.json"
+  },
+  {
     "uuid": "3cc01d2044d543c3ad3ad20380619afb",
     "name": "Fedora",
     "url": "https://roobi.radxa.com/ps006/images/ps006_fedora.json"

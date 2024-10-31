@@ -1,0 +1,40 @@
+{
+  "script_version": "1",
+  "uuid": "e5d6baf6185d418d9397983709f97009",
+  "name": "Windows 10",
+  "img": "https://gate.radxa.com/palmshell/RoobiOS/releases/download/win10_1/windows-10-logo.png",
+  "description": {
+    "zh-CN": "windows 简体中文版安装程序， 您必须遵守Windows相关条款，继续安装则代表接受条款",
+    "en": "Windows Chinese installation program.You must comply with the Windows-related terms. Continuing with the installation signifies acceptance of the terms."
+  },
+  "version": "Professional 22H2 CN",
+  "author": "official",
+  "date": "2024.10.31",
+  "download": [
+    {
+      "file_name": "windows10.img.xz",
+      "size": 5774637436,
+      "urls": [
+        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/ps010-windows10/ps010-windows10.img.xzaa",
+        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/ps010-windows10/ps010-windows10.img.xzab",
+        "https://gate.radxa.com/palmshell/RoobiOS/releases/download/ps010-windows10/ps010-windows10.img.xzac"
+      ],
+      "md5": "8ab544bcc3532d32ae58c53a1c86f1bb",
+      "sig": "iqpNwF1rxp6ImDRru9r/vtYD2p8C4SGZtsBAS5+mYeU21RdsV/IPEXLeVj7EFZ9bHzjDDSTnVPKE+uITw1nu5089q7aSSYdeXAaLwCywvid4CW0zSaR12tSZvUjU9+4GfKC8yWToINFq/WvJFgNaE0GiU4tvPWJ275Gv7oqHOkl9z3cyE5/tTJGoBeSteWSlhRMkSN0qMxNX6Z3HFw7MOihPf9s0zlYemIyZne43qiFRi+u20VCz4TOWFn59VRGFM38kKZ0FgxPjisP0KxuEIrYsh/xMjrEQY5v2pZhRJIoFa/Knf/V/ucX/QnnPUgOudM2mvZpqP5ktc3DbuI4b0A=="
+    },
+    {
+      "file_name": "after.sh",
+      "size": 237,
+      "urls": "https://gate.radxa.com/palmshell/RoobiOS/releases/download/ps010-windows10/win10.sh",
+      "md5":"1956f762f22f693c6751523faea0bb99",
+      "sig": "ZBgPj/KG6QAxAPsxyVJgA22MijuTBKdUtLTOmZc/vLPMBF6tsgWNOwZMY6m7gGrWXhsbOXIcygD35cfvW0RF42Pe6x1BLoaPH8NjnmRGPJGS40dea660nzbp2wMbEPfhtDzaznebxXKMtEdEh2wdnVbI5qJ5WfaPzmg7H94x3digqKw8YlKHyuiNDwxUtilGuQTg+R0qZSpBAuZ6i8zwAKmp/YC/HiQv8c7tZ5MmApyeCx6PsPjV5kWOAt/oSlzyOb7YD3BqG/i6WD0SP/AOnlFPpzyVaW/A1XFD03SGDvb+6/ac3FI18bDmrvmJWTaAjQGQdJxr6nsx2CamvSni5w=="
+    }
+  ],
+  "scripts": [
+    {
+      "type": "auto",
+      "text": "start",
+      "size": 16062053376
+    }
+  ]
+}

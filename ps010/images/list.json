@@ -11,8 +11,13 @@
   },
   {
     "uuid": "e5d6baf6185d418d9397983709f97009",
-    "name": "Windows 10",
+    "name": "Windows 10 CN",
     "url": "https://roobi.radxa.com/ps010/images/windows10-cn.json"
+  },
+  {
+    "uuid": "7be6e529090e454e8b09dee7ca36cf99",
+    "name": "Windows 10 EN",
+    "url": "https://roobi.radxa.com/ps010/images/windows10-en.json"
   },
   {
     "uuid": "3cc01d2044d543c3ad3ad20380619afb",

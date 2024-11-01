@@ -1,7 +1,7 @@
 {
   "script_version": "1",
   "uuid": "e5d6baf6185d418d9397983709f97009",
-  "name": "Windows 10",
+  "name": "Windows 10 CN",
   "img": "https://gate.radxa.com/palmshell/RoobiOS/releases/download/win10_1/windows-10-logo.png",
   "description": {
     "zh-CN": "windows 简体中文版安装程序， 您必须遵守Windows相关条款，继续安装则代表接受条款",

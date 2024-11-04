@@ -1,0 +1,27 @@
+[
+  {
+    "uuid": "1c46c9de51be460e8f73234e6605b534",
+    "name": "OpenWrt",
+    "url": "https://roobi.radxa.com/ps006/images/openwrt23.05.0.json"
+  },
+  {
+    "uuid": "58373afacba743b1aa06b8b88dd39211",
+    "name": "Ubuntu",
+    "url": "https://roobi.radxa.com/ps006/images/ps006_ubuntu.json"
+  },
+  {
+    "uuid": "e5d6baf6185d418d9397983709f97009",
+    "name": "Windows 10 CN",
+    "url": "https://roobi.radxa.com/ps010/images/windows10-cn.json"
+  },
+  {
+    "uuid": "7be6e529090e454e8b09dee7ca36cf99",
+    "name": "Windows 10 EN",
+    "url": "https://roobi.radxa.com/ps010/images/windows10-en.json"
+  },
+  {
+    "uuid": "3cc01d2044d543c3ad3ad20380619afb",
+    "name": "Fedora",
+    "url": "https://roobi.radxa.com/ps006/images/ps006_fedora.json"
+  }
+]
